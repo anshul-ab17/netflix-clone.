@@ -7,7 +7,7 @@ in the directory and
 use :
 
 npm start
- the the project will be runnning in your browser locally @http://localhost:3000
+ then the project will be runnning in your browser locally @http://localhost:3000
  
  
 
