@@ -11,5 +11,6 @@ npm start
 
 
 Interface of the project : 
- ![Uploading Screenshot 2022-12-27 145524.png![Screenshot 2022-12-27 145642](https://user-images.githubusercontent.com/96761799/209648049-922b57fe-2e67-414d-b227-c05fd1c23367.png)
-…]()
+![Screenshot 2022-12-27 145524](https://user-images.githubusercontent.com/96761799/209648252-b16436c3-ab9d-443b-99a6-5589ff336401.png)
+![Screenshot 2022-12-27 145642](https://user-images.githubusercontent.com/96761799/209648242-5a1048b9-5ec2-48e4-8f01-887ed4e7274d.png)
+
